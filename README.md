@@ -20,7 +20,7 @@ If you're having trouble, please remember you can
 
 There are 3 problems and one preparatory step in this week's exercise:
 
- - [Problem 1 - Making changes to conde and using Git (7 points)](Exercise-2.ipynb)
+ - [Problem 1 - Making changes to code and using Git (7 points)](Exercise-2.ipynb)
  - [Problem 2 - Accessing monthly average temperatures (9 points)](Exercise-2.ipynb)
  - [Problem 3 - More practice using Markdown (4 points)](Exercise-2.ipynb)
 
